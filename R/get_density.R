@@ -1,6 +1,6 @@
 #' get_density
 #'
-#' @description
+#' @description this gets density
 #' @param
 #' @return
 #' @export
